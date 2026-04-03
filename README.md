@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Ostap 👋
 
-<!--
-**ostapkotapko/ostapkoTapko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Unity Developer
+I am passionate about creating games and interactive experiences. I work with **Unity** and **C#** to develop gameplay mechanics, UI systems, and core game features. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies I use:
+* **Engine:** Unity (2D/3D)
+* **Language:** C#
+* **Version Control:** Git & GitHub
+
+---
+
+### 🧠 Skills & Experience
+* **Gameplay:** Implementing player movement, physics, and game logic.
+* **Systems:** Developing UI and basic game architecture.
+* **Problem Solving:** Actively practicing on **LeetCode**.
+
+---
+
+### 🚀 Currently working on:
+* **[ZombieCooked](https://github.com/ostapkotapko/ZombieCooked)** — My main project where I experiment with game systems.
+
+*I am currently looking for opportunities to grow as a game developer and work on real projects!*
