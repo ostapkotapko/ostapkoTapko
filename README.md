@@ -1,25 +1,20 @@
-# Hi there! I'm Ostap 👋
+# Hi everyone! I'm Ostap 👋
 
 ### Junior Unity Developer
-I am passionate about creating games and interactive experiences. I work with **Unity** and **C#** to develop gameplay mechanics, UI systems, and core game features. 
+I am passionate about developing games. I work with **Unity** and **C#** to develop gameplay mechanics, UI systems, and core game features. 
+I'm learning and doing my best to create good games and make money from them.
 
 ---
 
-### 🛠 Technologies I use:
-* **Engine:** Unity (2D/3D)
-* **Language:** C#
-* **Version Control:** Git & GitHub
+### Technologies:
+* Unity (2D/3D)
+* C#
+* Git & GitHub
+* Visual Studio
 
 ---
 
-### 🧠 Skills & Experience
-* **Gameplay:** Implementing player movement, physics, and game logic.
-* **Systems:** Developing UI and basic game architecture.
-* **Problem Solving:** Actively practicing on **LeetCode**.
+### Currently working on:
+Unity templates with basic mechanics to make it easier to develop various mini-projects
 
----
-
-### 🚀 Currently working on:
-* **[ZombieCooked](https://github.com/ostapkotapko/ZombieCooked)** — My main project where I experiment with game systems.
-
-*I am currently looking for opportunities to grow as a game developer and work on real projects!*
+*I am looking for opportunities to grow as a game developer and work on real projects!*
